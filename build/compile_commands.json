@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/caleychen/Desktop/Sokoban/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -std=c++17 -o CMakeFiles/testSFML.dir/src/helloSFML.cpp.o -c /Users/caleychen/Desktop/Sokoban/src/helloSFML.cpp",
+  "file": "/Users/caleychen/Desktop/Sokoban/src/helloSFML.cpp",
+  "output": "CMakeFiles/testSFML.dir/src/helloSFML.cpp.o"
+},
+{
+  "directory": "/Users/caleychen/Desktop/Sokoban/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -std=c++17 -o CMakeFiles/testSFML.dir/src/Gamehelpers.cpp.o -c /Users/caleychen/Desktop/Sokoban/src/Gamehelpers.cpp",
+  "file": "/Users/caleychen/Desktop/Sokoban/src/Gamehelpers.cpp",
+  "output": "CMakeFiles/testSFML.dir/src/Gamehelpers.cpp.o"
+}
+]

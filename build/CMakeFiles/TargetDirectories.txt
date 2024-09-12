@@ -1,0 +1,3 @@
+/Users/caleychen/Desktop/Sokoban/build/CMakeFiles/testSFML.dir
+/Users/caleychen/Desktop/Sokoban/build/CMakeFiles/edit_cache.dir
+/Users/caleychen/Desktop/Sokoban/build/CMakeFiles/rebuild_cache.dir
